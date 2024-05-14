@@ -1,7 +1,7 @@
-Generative AI for Engineering
+Text Classification for Biomedical Publication
 ==================================================
 
-## cancer_detection_cnn_lstm
+## cancer_classification_cnn_lstm
 
 This repository contains the code and resources for a deep learning project using Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTMs) for cancer detection.
 
